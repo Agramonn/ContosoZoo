@@ -1,0 +1,14 @@
+C:\Users\buyer\Documents\CsharpProjects\ContosoZoo\bin\Debug\net7.0\ContosoZoo.exe
+C:\Users\buyer\Documents\CsharpProjects\ContosoZoo\bin\Debug\net7.0\ContosoZoo.deps.json
+C:\Users\buyer\Documents\CsharpProjects\ContosoZoo\bin\Debug\net7.0\ContosoZoo.runtimeconfig.json
+C:\Users\buyer\Documents\CsharpProjects\ContosoZoo\bin\Debug\net7.0\ContosoZoo.dll
+C:\Users\buyer\Documents\CsharpProjects\ContosoZoo\bin\Debug\net7.0\ContosoZoo.pdb
+C:\Users\buyer\Documents\CsharpProjects\ContosoZoo\obj\Debug\net7.0\ContosoZoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buyer\Documents\CsharpProjects\ContosoZoo\obj\Debug\net7.0\ContosoZoo.AssemblyInfoInputs.cache
+C:\Users\buyer\Documents\CsharpProjects\ContosoZoo\obj\Debug\net7.0\ContosoZoo.AssemblyInfo.cs
+C:\Users\buyer\Documents\CsharpProjects\ContosoZoo\obj\Debug\net7.0\ContosoZoo.csproj.CoreCompileInputs.cache
+C:\Users\buyer\Documents\CsharpProjects\ContosoZoo\obj\Debug\net7.0\ContosoZoo.dll
+C:\Users\buyer\Documents\CsharpProjects\ContosoZoo\obj\Debug\net7.0\refint\ContosoZoo.dll
+C:\Users\buyer\Documents\CsharpProjects\ContosoZoo\obj\Debug\net7.0\ContosoZoo.pdb
+C:\Users\buyer\Documents\CsharpProjects\ContosoZoo\obj\Debug\net7.0\ContosoZoo.genruntimeconfig.cache
+C:\Users\buyer\Documents\CsharpProjects\ContosoZoo\obj\Debug\net7.0\ref\ContosoZoo.dll
