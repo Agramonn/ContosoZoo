@@ -5,12 +5,18 @@
     "ostriches", "pigs", "ponies", "rabbits", "sheep", "tortoises",
 };
 
-//First convert task into pseudo-code...
+PlanScoolVisit("School A");
+PlanScoolVisit("School B", 3);
+PlanScoolVisit("School C", 2);
 
-RandomizeAnimals();
-string[,] group = AssignGroup();
-Console.WriteLine("School A");
-PrintGroup(group);
+//First convert task into pseudo-code...
+void PlanScoolVisit(string schoolName, int groups = 6)
+{
+    RandomizeAnimals();
+    string[,] group = AssignGroup(groups);
+    Console.WriteLine(schoolName);
+    PrintGroup(group);
+}
 
 void RandomizeAnimals()
 {
@@ -23,11 +29,6 @@ void RandomizeAnimals()
         pettingZoo[i] = pettingZoo[r];
         pettingZoo[r] = temp;
     }
-}
-
-foreach(string animal in pettingZoo) 
-{
-    Console.WriteLine(animal);
 }
 
 string[,] AssignGroup(int groups = 6)
@@ -43,4 +44,17 @@ string[,] AssignGroup(int groups = 6)
         }
     }
     return result;
+}
+
+void PrintGroup(string[,] group)
+{
+    for (int i = 0; i < group.GetLength(0); i++)
+    {
+        Console.Write($"Group {i+1}: ");
+        for (int j = 0; j < group.GetLength(1); j++)
+        {
+            Console.Write($"{group[i,j]}  ");
+        }
+        Console.WriteLine();
+    }
 }
